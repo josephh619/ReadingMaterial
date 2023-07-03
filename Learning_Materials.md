@@ -11,6 +11,7 @@
 
 - [Domain Adaptation](#domain-adaptation)
 - [Object Detection](#object-detection)
+- [Image Classification](#image-classification)
 
 ## Domain Adaptation
 
@@ -26,3 +27,9 @@ Object detection is a computer vision task that involves identifying and localiz
 
 - YOLOv7
 - Swin Transformer
+
+## Image Classification
+
+Classification is a computer vision task that involves identifying and  objects within an image or video.
+
+- MaxViT: Multi-Axis Vision Transformer
